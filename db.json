@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "formData": [
+    {
+      "id": 1,
+      "accnum": 98765,
+      "cusname": "Prajwal",
+      "deposit": 200,
+      "opendate": "2022-10-11"
+    },
+    {
+      "accnum": 34876,
+      "cusname": "Ashish",
+      "deposit": 700,
+      "opendate": "2021-10-11",
+      "id": 2
+    },
+    {
+      "cusname": "Amshu",
+      "accnum": 87548,
+      "opendate": "2021-06-04",
+      "deposit": 900,
+      "id": 3
+    }
+  ]
+}
